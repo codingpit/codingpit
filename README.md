@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @codingpit
+- 👀 I’m interested in python,HTML,css
+- 🌱 I’m currently learning Javascript 
+- 💞️ I’m looking to collaborate on lots of code
